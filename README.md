@@ -25,6 +25,10 @@ DotTalk Application (Made with Unity)
 - Paul Kim (Hardware Engineer, Samsung Electronics)
 - Evan Yoon (Designer, Breathings)
 
-# Contact Information
+# Acknowledgement
 
-Sky Kim (loenahmik@gmail.com)
+- National Rehabilitation Center (South Korea)
+
+# Contact Info
+
+- Sky Kim (loenahmik@gmail.com)
