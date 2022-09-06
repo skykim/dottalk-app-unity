@@ -19,6 +19,10 @@ DotTalk Application (Made with Unity)
 - Deaf-blind, blind, visually impaired, non-disabled people can communicate together.
 - Extensibility in multiple languages
 
+# Demo Clips (in Korean)
+- [Presentation](https://youtu.be/q3owhjKpgCw)
+- [Demo](https://youtu.be/Y3l4jioiRts)
+
 # Members
 
 - Sky Kim (Software Engineer, Unity Technologies Korea)
