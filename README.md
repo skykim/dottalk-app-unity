@@ -26,7 +26,7 @@ DotTalk Application (Made with Unity)
 # Members
 
 - Sky Kim (Software Engineer, Unity Technologies Korea)
-- Paul Kim (Hardware Engineer, Samsung Electronics)
+- Doyoung Kim (Firmware Engineer, Maker)
 - Evan Yoon (Designer, Breathings)
 
 # Acknowledgement
